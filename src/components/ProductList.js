@@ -87,7 +87,35 @@ const products = [
     description: 'A warm and sensual fragrance for evenings out.',
     price: '1800',
     image: 'path/to/image4.jpg', 
-  }
+  },
+  {
+    id: 5,
+    name: 'Fragrance 5',
+    description: 'A warm and sensual fragrance for evenings out.',
+    price: '1800',
+    image: 'path/to/image4.jpg', 
+  },
+  {
+    id: 6,
+    name: 'Fragrance 6',
+    description: 'A warm and sensual fragrance for evenings out.',
+    price: '1800',
+    image: 'path/to/image4.jpg',
+  },
+  {
+    id: 7,
+    name: 'Fragrance 7',
+    description: 'A warm and sensual fragrance for evenings out.',
+    price: '1800',
+    image: 'path/to/image4.jpg',
+  },
+  {
+    id: 8,
+    name: 'Fragrance 8',
+    description: 'A warm and sensual fragrance for evenings out.',
+    price: '1800',
+    image: 'path/to/image4.jpg',
+  },
 ];
 
 export default ProductList;

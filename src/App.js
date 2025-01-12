@@ -6,6 +6,7 @@ import Hero from './components/Hero';
 import ProductList from './components/ProductList';
 import SearchNavbar from './components/SearchNavBar';
 import Footer from './components/Footer';
+import Reviews from './components/Reviews';
 
 const styles = {
   appContainer: {
@@ -21,6 +22,7 @@ const App = () => {
       <Navbar />
       <Hero />
       <ProductList />
+      <Reviews />
       <Footer />
     </div>
   );
